@@ -13,7 +13,7 @@ import keyboard
 import asyncio
 import os
 
-# Load environment variables
+
 env_vars = dotenv_values(".env")
 GroqAPIKey = env_vars.get("GroqAPIKey")
 
