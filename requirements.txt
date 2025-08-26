@@ -1,2 +1,6 @@
 selenium
 beautuful soap
+AppOpener
+pywhatkit
+os
+googlesearch
