@@ -4,7 +4,7 @@ AppOpener
 pywhatkit
 bs4
 pillow 
-rich 
+rich
 requests 
 keyboard 
 cohere
