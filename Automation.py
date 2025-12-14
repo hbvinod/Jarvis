@@ -1,5 +1,6 @@
 # Import required libraries
-from AppOpener import close, open as appopen
+from AppOpener import close, open as appopen 
+
 from webbrowser import open as webopen
 from pywhatkit import search, playonyt
 from dotenv import dotenv_values
