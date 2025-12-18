@@ -5,7 +5,7 @@ import datetime  # Importing the datetime module for real-time date and time inf
 from dotenv import dotenv_values  # Importing dotenv_values to read environment variables from a .env file.
 import os
 
-# Load environment variables from the .env file.
+# Load environment variables from the .env file
 env_vars = dotenv_values(".env")
 
 # Retrieve environment variables for the chatbot configuration.
