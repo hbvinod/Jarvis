@@ -56,7 +56,7 @@ def RealtimeInformation():
         f"Time: {now.strftime('%H')} hours {now.strftime('%M')} minutes {now.strftime('%S')} seconds.\n"
     )
 
-# Clean up long or messy output
+# Clean up long or messy output 
 def AnswerModifier(answer):
     lines = answer.split('\n')
     return '\n'.join([line.strip() for line in lines if line.strip()])
