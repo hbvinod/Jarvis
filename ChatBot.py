@@ -4,7 +4,7 @@ import datetime
 from dotenv import load_dotenv
 from groq import Groq
 
-# Load environment variables from .env file
+# Load environment variables 
 load_dotenv()
 
 # Get API key from env
