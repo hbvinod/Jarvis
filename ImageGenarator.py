@@ -1,3 +1,5 @@
+#ImageGenerator.py
+
 import asyncio
 from random import randint
 from PIL import Image
